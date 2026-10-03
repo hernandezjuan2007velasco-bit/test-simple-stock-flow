@@ -2,7 +2,7 @@
 
 > **Prueba Técnica de Desempeño SDD (Spec-Driven Development)**  
 > **Servicio Nacional de Aprendizaje (SENA) · Análisis y Desarrollo de Software (ADSO) · Ficha 3413974**  
-> **Desarrollador:** Kevin ([`Kevin81A`](https://github.com/Kevin81A))  
+> **Desarrollador:** Kevin ([`juan_diego`](https://github.com/hernandezjuan2007velasco-bit))  
 > **Stack Implementado:** PHP 8.2 (Laravel 11) + React 18 (TypeScript + Vite) + MySQL 8.4 LTS + Docker Compose  
 
 ---
